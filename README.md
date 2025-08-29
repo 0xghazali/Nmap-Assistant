@@ -22,26 +22,6 @@ Instead of remembering complex flags, simply run the script, select a category, 
 - 🔹 Reports saved in `scan_results/` with timestamps  
 - 🔹 Modular codebase for clean GitHub structure  
 
----
-
-📂 Project Structure
-
-nmap_zerox/
-│
-├── nmap_zerox.py # Main entry 
-├── scans/
-│ ├── host_discovery.py # All host discovery methods
-│ ├── port_scanning.py # All TCP/UDP/Stealth scans
-│ ├── service_detection.py
-│ ├── os_detection.py
-│ ├── nse_scripts.py
-│ ├── firewall_evasion.py
-│ ├── timing_perf.py
-│ ├── output_options.py
-│
-├── utils.py # Common functions (runner, report generator)
-└── scan_results/ # All saved reports
-
 
 ⚙️ Installation
 
