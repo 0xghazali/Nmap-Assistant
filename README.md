@@ -25,9 +25,8 @@ Instead of remembering complex flags, simply run the script, select a category, 
 
 ⚙️ Installation
 
-git clone https://github.com/yourusername/nmap-0x.git
-cd nmap-0x
-pip install python-nmap
+git clone https://github.com/0xghazali/Nmap-Assistant.git
+cd Nmap-Assistant
 
 ▶️ Usage
 python3 nmap_zerox.py
