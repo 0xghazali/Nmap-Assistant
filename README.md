@@ -74,3 +74,4 @@ Always ensure you have explicit permission before scanning any target.
 
 Developed with ⚡ by 0x
 
+Video: https://youtu.be/u6P7sM8p4Vw
